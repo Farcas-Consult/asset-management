@@ -161,7 +161,7 @@ return [
     'import'         	    => 'Εισαγωγή',
     'import_this_file'      => 'Χάρτης πεδίων και επεξεργασία αυτού του αρχείου',
     'importing'         	=> 'Εισαγωγή',
-    'importing_help'        => 'The CSV should be comma-delimited and formatted with headers that match the ones in the <a href="https://snipe-it.readme.io/docs/importing" target="_new">sample CSVs in the documentation</a>.',
+    'importing_help'        => 'The CSV should be comma-delimited and formatted with headers that match the ones in the <a href="https://rams-docs.fclconsult.com" target="_new">sample CSVs in the documentation</a>.',
     'import-history'        => 'Ιστορικό Εισαγωγών',
     'asset_maintenance'        => 'Συντήρηση Παγίου',
     'asset_maintenance_report' => 'Αναφορά Συντήρησης Παγίου',

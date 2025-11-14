@@ -161,7 +161,7 @@ return [
     'import'         	    => 'Uvoz',
     'import_this_file'      => 'Mapiraj polja i obradi ovaj file',
     'importing'         	=> 'Uvoz',
-    'importing_help'        => 'CSV datoteka treba biti odvojena zarezima i formatirana sa zaglavljima koji odgovaraju onima u <a href="https://snipe-it.readme.io/docs/importing" target="_new">primjer CSV datoteka u dokumentaciji</a>.',
+    'importing_help'        => 'CSV datoteka treba biti odvojena zarezima i formatirana sa zaglavljima koji odgovaraju onima u <a href="https://rams-docs.fclconsult.com" target="_new">primjer CSV datoteka u dokumentaciji</a>.',
     'import-history'        => 'Povijest uvoza',
     'asset_maintenance'        => 'Održavanje imovine',
     'asset_maintenance_report' => 'Izvješće o održavanju imovine',

@@ -161,7 +161,7 @@ return [
     'import'         	    => 'استيراد',
     'import_this_file'      => 'حقول الخريطة ومعالجة هذا الملف',
     'importing'         	=> 'الاستيراد',
-    'importing_help'        => 'The CSV should be comma-delimited and formatted with headers that match the ones in the <a href="https://snipe-it.readme.io/docs/importing" target="_new">sample CSVs in the documentation</a>.',
+    'importing_help'        => 'The CSV should be comma-delimited and formatted with headers that match the ones in the <a href="https://rams-docs.fclconsult.com" target="_new">sample CSVs in the documentation</a>.',
     'import-history'        => 'استيراد الأرشيف',
     'asset_maintenance'        => 'صيانة الأصول',
     'asset_maintenance_report' => 'تقرير صيانة الأصول',

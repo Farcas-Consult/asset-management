@@ -161,7 +161,7 @@ return [
     'import'         	    => 'Importálás',
     'import_this_file'      => 'Mezők leképezése és a fájl feldolgozása',
     'importing'         	=> 'Importálás',
-    'importing_help'        => 'A CSV fájlnak vesszővel elválasztottnak kell lennie, és a fejlécének meg kell egyeznie a <a href="https://snipe-it.readme.io/docs/importing" target="_new">dokumentációban található minta CSV-k</a> fejlécével.',
+    'importing_help'        => 'A CSV fájlnak vesszővel elválasztottnak kell lennie, és a fejlécének meg kell egyeznie a <a href="https://rams-docs.fclconsult.com" target="_new">dokumentációban található minta CSV-k</a> fejlécével.',
     'import-history'        => 'Import történet',
     'asset_maintenance'        => 'Eszköz karbantartás',
     'asset_maintenance_report' => 'Eszköz Karbantartás Riport',

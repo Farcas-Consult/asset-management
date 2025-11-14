@@ -161,7 +161,7 @@ return [
     'import'         	    => 'Импорт',
     'import_this_file'      => 'Сопоставить поля и обработать этот файл',
     'importing'         	=> 'Импортируется',
-    'importing_help'        => 'CSV-файл должен быть разделён запятыми и отформатирован с заголовками, соответствующими заголовкам в <a href="https://snipe-it.readme.io/docs/importing" target="_new">примерах CSV-файлов из документации</a>.',
+    'importing_help'        => 'CSV-файл должен быть разделён запятыми и отформатирован с заголовками, соответствующими заголовкам в <a href="https://rams-docs.fclconsult.com" target="_new">примерах CSV-файлов из документации</a>.',
     'import-history'        => 'История импорта',
     'asset_maintenance'        => 'Обслуживание',
     'asset_maintenance_report' => 'Отчет по обслуживанию',

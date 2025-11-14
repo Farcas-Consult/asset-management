@@ -161,7 +161,7 @@ return [
     'import'         	    => 'Tuo tiedot',
     'import_this_file'      => 'Kartta kentät ja käsitellä tätä tiedostoa',
     'importing'         	=> 'Tuonti',
-    'importing_help'        => 'The CSV should be comma-delimited and formatted with headers that match the ones in the <a href="https://snipe-it.readme.io/docs/importing" target="_new">sample CSVs in the documentation</a>.',
+    'importing_help'        => 'The CSV should be comma-delimited and formatted with headers that match the ones in the <a href="https://rams-docs.fclconsult.com" target="_new">sample CSVs in the documentation</a>.',
     'import-history'        => 'Tuo historia',
     'asset_maintenance'        => 'Laitteen huolto',
     'asset_maintenance_report' => 'Laitteiden huoltoraportti',

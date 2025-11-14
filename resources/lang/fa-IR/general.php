@@ -173,7 +173,7 @@ return [
     'import'         	    => 'واردات',
     'import_this_file'      => 'انتخاب نظیر به نظیر فیلدها و پردازش فایل',
     'importing'         	=> 'در حال وارد کردن',
-    'importing_help'        => 'The CSV should be comma-delimited and formatted with headers that match the ones in the <a href="https://snipe-it.readme.io/docs/importing" target="_new">sample CSVs in the documentation</a>.',
+    'importing_help'        => 'The CSV should be comma-delimited and formatted with headers that match the ones in the <a href="https://rams-docs.fclconsult.com" target="_new">sample CSVs in the documentation</a>.',
     'import-history'        => 'واردات تاریخ',
     'asset_maintenance'        => 'نگهداشت دارایی',
     'asset_maintenance_report' => 'گزارش  تعمیر و نگهداری دارایی ها',

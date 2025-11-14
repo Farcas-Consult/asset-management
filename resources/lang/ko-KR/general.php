@@ -161,7 +161,7 @@ return [
     'import'         	    => '불러오기',
     'import_this_file'      => 'Map fields and process this file',
     'importing'         	=> '가져오는 중',
-    'importing_help'        => 'The CSV should be comma-delimited and formatted with headers that match the ones in the <a href="https://snipe-it.readme.io/docs/importing" target="_new">sample CSVs in the documentation</a>.',
+    'importing_help'        => 'The CSV should be comma-delimited and formatted with headers that match the ones in the <a href="https://rams-docs.fclconsult.com" target="_new">sample CSVs in the documentation</a>.',
     'import-history'        => '가져오기 이력',
     'asset_maintenance'        => '자산 관리',
     'asset_maintenance_report' => '자산 관리 보고서',

@@ -161,7 +161,7 @@ return [
     'import'         	    => '导入',
     'import_this_file'      => '映射字段并处理此文件',
     'importing'         	=> '正在导入…',
-    'importing_help'        => 'CSV 文件应使用逗号作为分隔符，并且其表头格式需要与<a href="https://snipe-it.readme.io/docs/importing" target="_new">文档中的 CSV 示例文件</a>中的表头保持一致。',
+    'importing_help'        => 'CSV 文件应使用逗号作为分隔符，并且其表头格式需要与<a href="https://rams-docs.fclconsult.com" target="_new">文档中的 CSV 示例文件</a>中的表头保持一致。',
     'import-history'        => '导入历史记录',
     'asset_maintenance'        => '资产维护',
     'asset_maintenance_report' => '资产维护报表',

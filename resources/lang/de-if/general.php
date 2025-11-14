@@ -161,7 +161,7 @@ return [
     'import'         	    => 'Import',
     'import_this_file'      => 'Felder zuordnen und diese Datei bearbeiten',
     'importing'         	=> 'Importiere',
-    'importing_help'        => 'Das CSV sollte kommagetrennt und mit Kopfzeilen formatiert werden, die mit den in der <a href="https://snipe-it.readme.io/docs/importing" target="_new">Beispiel-CSVs in der Dokumentation</a> übereinstimmen.',
+    'importing_help'        => 'Das CSV sollte kommagetrennt und mit Kopfzeilen formatiert werden, die mit den in der <a href="https://rams-docs.fclconsult.com" target="_new">Beispiel-CSVs in der Dokumentation</a> übereinstimmen.',
     'import-history'        => 'Import Verlauf',
     'asset_maintenance'        => 'Wartungen',
     'asset_maintenance_report' => 'Wartungsbericht',

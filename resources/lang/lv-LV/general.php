@@ -161,7 +161,7 @@ return [
     'import'         	    => 'Importēt',
     'import_this_file'      => 'Kartējiet laukus un apstrādājiet šo failu',
     'importing'         	=> 'Notiek ielāde',
-    'importing_help'        => 'The CSV should be comma-delimited and formatted with headers that match the ones in the <a href="https://snipe-it.readme.io/docs/importing" target="_new">sample CSVs in the documentation</a>.',
+    'importing_help'        => 'The CSV should be comma-delimited and formatted with headers that match the ones in the <a href="https://rams-docs.fclconsult.com" target="_new">sample CSVs in the documentation</a>.',
     'import-history'        => 'Importa vēsture',
     'asset_maintenance'        => 'Aktīvu uzturēšana',
     'asset_maintenance_report' => 'Aktīvu uzturēšanas pārskats',

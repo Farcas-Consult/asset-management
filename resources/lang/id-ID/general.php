@@ -161,7 +161,7 @@ return [
     'import'         	    => 'Impor',
     'import_this_file'      => 'Petakan kolom dan proses berkas ini',
     'importing'         	=> 'Pengimporan',
-    'importing_help'        => 'Berkas CSV harus dengan pemisah koma dengan judul sesuai dengan <a href="https://snipe-it.readme.io/docs/importing" target="_new"> CSV contoh pada dokumentasi </a>.',
+    'importing_help'        => 'Berkas CSV harus dengan pemisah koma dengan judul sesuai dengan <a href="https://rams-docs.fclconsult.com" target="_new"> CSV contoh pada dokumentasi </a>.',
     'import-history'        => 'Sejarah Impor',
     'asset_maintenance'        => 'Pemeliharaan Aset',
     'asset_maintenance_report' => 'Laporan Pemeliharaan Aset',

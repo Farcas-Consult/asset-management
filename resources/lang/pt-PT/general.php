@@ -161,7 +161,7 @@ return [
     'import'         	    => 'Importar',
     'import_this_file'      => 'Mapear os campos e processar este arquivo',
     'importing'         	=> 'A importar',
-    'importing_help'        => 'The CSV should be comma-delimited and formatted with headers that match the ones in the <a href="https://snipe-it.readme.io/docs/importing" target="_new">sample CSVs in the documentation</a>.',
+    'importing_help'        => 'The CSV should be comma-delimited and formatted with headers that match the ones in the <a href="https://rams-docs.fclconsult.com" target="_new">sample CSVs in the documentation</a>.',
     'import-history'        => 'Histórico de Importação',
     'asset_maintenance'        => 'Manutenção de Artigo',
     'asset_maintenance_report' => 'Relatório de Manutenção de Artigos',

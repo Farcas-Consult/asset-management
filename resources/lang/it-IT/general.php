@@ -161,7 +161,7 @@ return [
     'import'         	    => 'Importa',
     'import_this_file'      => 'Mappa i campi ed elabora questo file',
     'importing'         	=> 'Sto importando',
-    'importing_help'        => 'Il CSV dovrebbe usare la virgola come separatore e formattato con intestazioni che corrispondano a quelle del <a href="https://snipe-it.readme.io/docs/importing" target="_new">CSV campione nella documentazione</a>.',
+    'importing_help'        => 'Il CSV dovrebbe usare la virgola come separatore e formattato con intestazioni che corrispondano a quelle del <a href="https://rams-docs.fclconsult.com" target="_new">CSV campione nella documentazione</a>.',
     'import-history'        => 'Storico di Importazione',
     'asset_maintenance'        => 'Manutenzione Bene',
     'asset_maintenance_report' => 'Report Manutenzione Beni',

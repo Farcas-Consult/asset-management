@@ -161,7 +161,7 @@ return [
     'import'         	    => 'Zaimportuj',
     'import_this_file'      => 'Mapuj pola i przetwarzaj ten plik',
     'importing'         	=> 'Importowanie',
-    'importing_help'        => 'Dane w pliku CSV muszą być rozdzielone przecinkami a nagłówki sformatowane zgodnie z konwencją opisaną w <a href="https://snipe-it.readme.io/docs/importing" target="_new">przykładowym pliku CSV dokumentacji</a>.',
+    'importing_help'        => 'Dane w pliku CSV muszą być rozdzielone przecinkami a nagłówki sformatowane zgodnie z konwencją opisaną w <a href="https://rams-docs.fclconsult.com" target="_new">przykładowym pliku CSV dokumentacji</a>.',
     'import-history'        => 'Historia importu',
     'asset_maintenance'        => 'Utrzymanie aktywów',
     'asset_maintenance_report' => 'Raport utrzymywania aktywów',

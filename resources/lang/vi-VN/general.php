@@ -161,7 +161,7 @@ return [
     'import'         	    => 'Nhập',
     'import_this_file'      => 'Các trường bản đồ và quá trình xử lý tệp này',
     'importing'         	=> 'Đang nhập',
-    'importing_help'        => 'The CSV should be comma-delimited and formatted with headers that match the ones in the <a href="https://snipe-it.readme.io/docs/importing" target="_new">sample CSVs in the documentation</a>.',
+    'importing_help'        => 'The CSV should be comma-delimited and formatted with headers that match the ones in the <a href="https://rams-docs.fclconsult.com" target="_new">sample CSVs in the documentation</a>.',
     'import-history'        => 'Lịch sử Nhập khẩu',
     'asset_maintenance'        => 'Tài sản đang bảo trì',
     'asset_maintenance_report' => 'Báo cáo tài sản bảo trì',

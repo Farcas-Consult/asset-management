@@ -161,7 +161,7 @@ return [
     'import'         	    => 'Import',
     'import_this_file'      => 'Mapa polí a zpracovávat tento soubor',
     'importing'         	=> 'Importování',
-    'importing_help'        => 'The CSV should be comma-delimited and formatted with headers that match the ones in the <a href="https://snipe-it.readme.io/docs/importing" target="_new">sample CSVs in the documentation</a>.',
+    'importing_help'        => 'The CSV should be comma-delimited and formatted with headers that match the ones in the <a href="https://rams-docs.fclconsult.com" target="_new">sample CSVs in the documentation</a>.',
     'import-history'        => 'Historie importu',
     'asset_maintenance'        => 'Údržba zařízení',
     'asset_maintenance_report' => 'Zpráva o údržbě zařízení',

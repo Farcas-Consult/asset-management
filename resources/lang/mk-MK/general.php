@@ -161,7 +161,7 @@ return [
     'import'         	    => 'Увоз',
     'import_this_file'      => 'Означи полиња и обработете ја оваа датотека',
     'importing'         	=> 'Увоз',
-    'importing_help'        => 'The CSV should be comma-delimited and formatted with headers that match the ones in the <a href="https://snipe-it.readme.io/docs/importing" target="_new">sample CSVs in the documentation</a>.',
+    'importing_help'        => 'The CSV should be comma-delimited and formatted with headers that match the ones in the <a href="https://rams-docs.fclconsult.com" target="_new">sample CSVs in the documentation</a>.',
     'import-history'        => 'Историја на увози',
     'asset_maintenance'        => 'Одржување на основни средства',
     'asset_maintenance_report' => 'Извештај за одржување на основни средства',

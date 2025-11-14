@@ -164,7 +164,7 @@ Context | Request Context
     'import'         	    => 'İçeri aktar',
     'import_this_file'      => 'Alanları eşleyin ve bu dosyayı işleyin',
     'importing'         	=> 'İçeri Aktarma',
-    'importing_help'        => 'CSV dosyası virgülle ayrılmış olmalı ve başlıkları <a href="https://snipe-it.readme.io/docs/importing" target="_new">dokümantasyondaki örnek CSV\'lerde</a> bulunanlarla eşleşmelidir.',
+    'importing_help'        => 'CSV dosyası virgülle ayrılmış olmalı ve başlıkları <a href="https://rams-docs.fclconsult.com" target="_new">dokümantasyondaki örnek CSV\'lerde</a> bulunanlarla eşleşmelidir.',
     'import-history'        => 'İçeri aktarma geçmişi',
     'asset_maintenance'        => 'Demirbaş bakımı',
     'asset_maintenance_report' => 'Demirbaş bakım raporu',

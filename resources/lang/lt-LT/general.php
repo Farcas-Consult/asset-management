@@ -161,7 +161,7 @@ return [
     'import'         	    => 'Importavimas',
     'import_this_file'      => 'Susieti laukus ir apdoroti šį failą',
     'importing'         	=> 'Importuojama',
-    'importing_help'        => 'The CSV should be comma-delimited and formatted with headers that match the ones in the <a href="https://snipe-it.readme.io/docs/importing" target="_new">sample CSVs in the documentation</a>.',
+    'importing_help'        => 'The CSV should be comma-delimited and formatted with headers that match the ones in the <a href="https://rams-docs.fclconsult.com" target="_new">sample CSVs in the documentation</a>.',
     'import-history'        => 'Importuoti istoriją',
     'asset_maintenance'        => 'Turto aptarnavimas',
     'asset_maintenance_report' => 'Turto aptarnavimo ataskaita',
